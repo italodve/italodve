@@ -3,6 +3,7 @@
 - Aqui você encontrará meus projetos pessoais e de estudo
 - Se você estiver interessado em conversar comigo, fique à vontade para entrar em contato.
 
+![Italo GitHub stats](https://github-readme-stats.vercel.app/api?username=italodve&show_icons=true&theme=radical)
 
 ## ⚒Ferramentas e Linguagens
 
